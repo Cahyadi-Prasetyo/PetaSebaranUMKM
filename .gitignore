@@ -1,0 +1,20 @@
+# QGIS temporary files
+*.qgz~
+*.qgs~
+*.pyc
+__pycache__/
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Backup files
+*.bak
+*.tmp
+*~
+
+# Large output files (optional - uncomment if needed)
+# 05_output/*.pdf
+# 05_output/*.png
+# 05_output/*.tif
