@@ -1,17 +1,19 @@
-id_umkm,nama_usaha,foto,latitude,longtitude,nomor_indeks
-1,Gerai Julia,,0.816827,104595541,1
-2,Otak-otak Wati,,0.813824,104595198,2
-3,Gudang Ketam Labas,,0.813146,104595874,3
-4,Otak-otak pak oteh,,0.81337,104595188,4
-5,Otak-otak Pak Moh,,0.813127,104595165,5
-6,Otak-otak mak cik endang,,0.812976,104595025,6
-7,Otak-otak mak ita,,0.811505,104593897,7
-8,Kedai kopi sei 6,,0.811417,104594038,8
-9,Otak-otak bu elvi,,0.81252,104594600,9
-10,Otak-otak Mak Long,,0.813527,104593743,10
-11,Otak-otak Cik Ros,,0.813344,104593709,11
-12,Otak-otak Mak Bona,,0.812415,104593421,12
-13,Otak-otak Mak Ucu,,0.814642,104593841,13
-14,Otak-otak Buk Iza,,0.813404,104593850,14
-15,Otak-otak Mak Oteh,,0.81369,10459394,15
-16,Cafe Tanjung Lili,,0.8100192059244234,10459284757847800,16
+id_umkm,nama_usaha,foto,latitude,longitude,nomor_indeks
+1,Gerai Julia,,0.816871,104.595515,1
+2,Otak-otak Wati,,0.813824,104.595198,2
+3,Gudang Ketam Labas,,0.813146,104.595874,3
+4,Otak-otak pak oteh,,0.81337,104.595188,4
+5,Otak-otak Pak Moh,,0.813127,104.595165,5
+6,Otak-otak mak cik endang,,0.812976,104.595025,6
+7,Otak-otak mak ita,,0.8115911625540173, 104.59394060480923,7
+8,Kedai kopi sei 6,,0.811417,104.594038,8
+9,Otak-otak bu elvi,,0.81252,104.594600,9
+10,Otak-otak Mak Long,,0.813527,104.593743,10
+11,Otak-otak Mak Cik Ros,,0.813344,104.593709,11
+12,Otak-otak Mak Bona,,0.812347170185621, 104.5934845051292,12
+13,Otak-otak Mak Ucu,,0.814642,104.593841,13
+14,Otak-otak Buk Iza,,0.813404,104.593850,14
+15,Otak-otak Mak Oteh,,0.8137037805256817,104.5938799722267,15
+16,Cafe Tanjung Lili,,0.8100192059244234,104.59284757847800,16
+17,Otak-otak Buk Yana,,0.813468,104.593860,17
+18,Otak-otak Kak Ju,,0.8134432759040656, 104.59374193880384,18
